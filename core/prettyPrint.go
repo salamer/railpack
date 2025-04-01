@@ -5,10 +5,10 @@ import (
 	"strings"
 
 	"github.com/charmbracelet/lipgloss"
-	"github.com/railwayapp/railpack/core/logger"
-	"github.com/railwayapp/railpack/core/plan"
-	"github.com/railwayapp/railpack/core/resolver"
-	"github.com/railwayapp/railpack/internal/utils"
+	"github.com/salamer/railpack/core/logger"
+	"github.com/salamer/railpack/core/plan"
+	"github.com/salamer/railpack/core/resolver"
+	"github.com/salamer/railpack/internal/utils"
 )
 
 const (

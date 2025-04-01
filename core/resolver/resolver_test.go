@@ -3,7 +3,7 @@ package resolver
 import (
 	"testing"
 
-	"github.com/railwayapp/railpack/core/mise"
+	"github.com/salamer/railpack/core/mise"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

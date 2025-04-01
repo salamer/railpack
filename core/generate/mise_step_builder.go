@@ -6,10 +6,10 @@ import (
 	"sort"
 	"strings"
 
-	a "github.com/railwayapp/railpack/core/app"
-	"github.com/railwayapp/railpack/core/mise"
-	"github.com/railwayapp/railpack/core/plan"
-	"github.com/railwayapp/railpack/core/resolver"
+	a "github.com/salamer/railpack/core/app"
+	"github.com/salamer/railpack/core/mise"
+	"github.com/salamer/railpack/core/plan"
+	"github.com/salamer/railpack/core/resolver"
 )
 
 const (

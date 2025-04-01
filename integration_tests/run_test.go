@@ -14,9 +14,9 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/railwayapp/railpack/buildkit"
-	"github.com/railwayapp/railpack/core"
-	"github.com/railwayapp/railpack/core/app"
+	"github.com/salamer/railpack/buildkit"
+	"github.com/salamer/railpack/core"
+	"github.com/salamer/railpack/core/app"
 	"github.com/stretchr/testify/require"
 )
 

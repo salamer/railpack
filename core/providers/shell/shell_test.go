@@ -3,8 +3,8 @@ package shell
 import (
 	"testing"
 
-	"github.com/railwayapp/railpack/core/app"
-	testingUtils "github.com/railwayapp/railpack/core/testing"
+	"github.com/salamer/railpack/core/app"
+	testingUtils "github.com/salamer/railpack/core/testing"
 	"github.com/stretchr/testify/require"
 )
 

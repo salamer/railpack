@@ -45,6 +45,6 @@ root: dist
 ### Custom Caddyfile
 
 Railpack uses a custom
-[Caddyfile](https://github.com/railwayapp/railpack/blob/main/core/providers/staticfile/Caddyfile.template)
+[Caddyfile](https://github.com/salamer/railpack/blob/main/core/providers/staticfile/Caddyfile.template)
 that is used to serve the static files. You can overwrite this file with your
 own Caddyfile at the root of your project.

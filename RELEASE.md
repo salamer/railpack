@@ -19,7 +19,7 @@ This document outlines the process for creating new releases of Railpack.
    ```
 
 3. The [release
-   workflow](https://github.com/railwayapp/railpack/actions/workflows/release.yml)
+   workflow](https://github.com/salamer/railpack/actions/workflows/release.yml)
    will automatically:
    - Build and publish the frontend Docker image to
      [GHCR](https://github.com/orgs/railwayapp/packages?repo_name=railpack)
@@ -48,9 +48,9 @@ platforms to the GitHub release.
 
 After pushing a tag:
 
-1. Check the [Actions tab](https://github.com/railwayapp/railpack/actions) to
+1. Check the [Actions tab](https://github.com/salamer/railpack/actions) to
    monitor the release workflow
-2. Verify the [GitHub release](https://github.com/railwayapp/railpack/releases)
+2. Verify the [GitHub release](https://github.com/salamer/railpack/releases)
    is created with the correct artifacts
 3. Confirm the frontend Docker image is available in the [package
-   registry](https://github.com/railwayapp/railpack/pkgs/container/railpack-frontend)
+   registry](https://github.com/salamer/railpack/pkgs/container/railpack-frontend)

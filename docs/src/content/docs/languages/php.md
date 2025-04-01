@@ -40,9 +40,9 @@ directory.
 ### Custom Configuration
 
 Railpack uses default
-[Caddyfile](https://github.com/railwayapp/railpack/blob/main/core/providers/php/Caddyfile)
+[Caddyfile](https://github.com/salamer/railpack/blob/main/core/providers/php/Caddyfile)
 and
-[php.ini](https://github.com/railwayapp/railpack/blob/main/core/providers/php/php.ini)
+[php.ini](https://github.com/salamer/railpack/blob/main/core/providers/php/php.ini)
 configuration files. You can override these by placing your own versions in your
 project root:
 
@@ -52,7 +52,7 @@ project root:
 ### Startup Process
 
 The application is started using a
-[start-container.sh](https://github.com/railwayapp/railpack/blob/main/core/providers/php/start-container.sh)
+[start-container.sh](https://github.com/salamer/railpack/blob/main/core/providers/php/start-container.sh)
 script that:
 
 - For Laravel applications:

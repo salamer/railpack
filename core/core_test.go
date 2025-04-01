@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/gkampitakis/go-snaps/snaps"
-	"github.com/railwayapp/railpack/core/app"
+	"github.com/salamer/railpack/core/app"
 	"github.com/stretchr/testify/require"
 )
 

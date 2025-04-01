@@ -1,17 +1,17 @@
 package providers
 
 import (
-	"github.com/railwayapp/railpack/core/generate"
-	"github.com/railwayapp/railpack/core/providers/deno"
-	"github.com/railwayapp/railpack/core/providers/golang"
-	"github.com/railwayapp/railpack/core/providers/java"
-	"github.com/railwayapp/railpack/core/providers/node"
-	"github.com/railwayapp/railpack/core/providers/php"
-	"github.com/railwayapp/railpack/core/providers/python"
-	"github.com/railwayapp/railpack/core/providers/ruby"
-	"github.com/railwayapp/railpack/core/providers/rust"
-	"github.com/railwayapp/railpack/core/providers/shell"
-	"github.com/railwayapp/railpack/core/providers/staticfile"
+	"github.com/salamer/railpack/core/generate"
+	"github.com/salamer/railpack/core/providers/deno"
+	"github.com/salamer/railpack/core/providers/golang"
+	"github.com/salamer/railpack/core/providers/java"
+	"github.com/salamer/railpack/core/providers/node"
+	"github.com/salamer/railpack/core/providers/php"
+	"github.com/salamer/railpack/core/providers/python"
+	"github.com/salamer/railpack/core/providers/ruby"
+	"github.com/salamer/railpack/core/providers/rust"
+	"github.com/salamer/railpack/core/providers/shell"
+	"github.com/salamer/railpack/core/providers/staticfile"
 )
 
 type Provider interface {

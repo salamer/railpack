@@ -117,7 +117,7 @@ specify a custom output directory.
 
 Static sites are served using the [Caddy](https://caddyserver.com/) web server
 and a [default
-Caddyfile](https://github.com/railwayapp/railpack/blob/main/core/providers/node/Caddyfile.template).
+Caddyfile](https://github.com/salamer/railpack/blob/main/core/providers/node/Caddyfile.template).
 You can overwrite this file with your own Caddyfile at the root of your project.
 
 ## Framework Support

@@ -60,7 +60,7 @@ mise run test-integration
 
 The `test.json` file contains an array of build configuration and expected
 output. See [this
-file](https://github.com/railwayapp/railpack/blob/main/integration_tests/run_test.go#L26)
+file](https://github.com/salamer/railpack/blob/main/integration_tests/run_test.go#L26)
 for the schema.
 
 ## Useful Commands
