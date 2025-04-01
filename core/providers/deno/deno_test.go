@@ -3,7 +3,7 @@ package deno
 import (
 	"testing"
 
-	testingUtils "github.com/railwayapp/railpack/core/testing"
+	testingUtils "github.com/salamer/railpack/core/testing"
 	"github.com/stretchr/testify/require"
 )
 

@@ -3,7 +3,7 @@ package node
 import (
 	"strings"
 
-	"github.com/railwayapp/railpack/core/generate"
+	"github.com/salamer/railpack/core/generate"
 )
 
 const (

@@ -4,10 +4,10 @@ description: How to install Railpack
 ---
 
 Railpack is available as a CLI tool. The latest release is available [on
-GitHub](https://github.com/railwayapp/railpack/releases).
+GitHub](https://github.com/salamer/railpack/releases).
 
 The BuildKit frontend is available as a [Docker image on
-GHCR](https://github.com/railwayapp/railpack/pkgs/container/railpack-frontend).
+GHCR](https://github.com/salamer/railpack/pkgs/container/railpack-frontend).
 
 ## Curl
 
@@ -19,7 +19,7 @@ curl -sSL https://railpack.com/install.sh | sh
 
 ## GitHub Releases
 
-Go to the [latest release](https://github.com/railwayapp/railpack/releases) and
+Go to the [latest release](https://github.com/salamer/railpack/releases) and
 download the `railpack` binary for your platform.
 
 ## From Source

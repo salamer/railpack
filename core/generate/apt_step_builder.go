@@ -3,7 +3,7 @@ package generate
 import (
 	"fmt"
 
-	"github.com/railwayapp/railpack/core/plan"
+	"github.com/salamer/railpack/core/plan"
 )
 
 type AptStepBuilder struct {

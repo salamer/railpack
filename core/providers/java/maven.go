@@ -3,7 +3,7 @@ package java
 import (
 	"strings"
 
-	"github.com/railwayapp/railpack/core/generate"
+	"github.com/salamer/railpack/core/generate"
 )
 
 const MAVEN_CACHE_KEY = "maven"

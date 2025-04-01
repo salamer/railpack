@@ -1,6 +1,6 @@
 package procfile
 
-import "github.com/railwayapp/railpack/core/generate"
+import "github.com/salamer/railpack/core/generate"
 
 type ProcfileProvider struct{}
 

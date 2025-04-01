@@ -3,11 +3,11 @@ package core
 import (
 	"fmt"
 
-	"github.com/railwayapp/railpack/core/app"
-	"github.com/railwayapp/railpack/core/logger"
-	"github.com/railwayapp/railpack/core/plan"
-	"github.com/railwayapp/railpack/core/providers"
-	"github.com/railwayapp/railpack/internal/utils"
+	"github.com/salamer/railpack/core/app"
+	"github.com/salamer/railpack/core/logger"
+	"github.com/salamer/railpack/core/plan"
+	"github.com/salamer/railpack/core/providers"
+	"github.com/salamer/railpack/internal/utils"
 )
 
 type ValidatePlanOptions struct {

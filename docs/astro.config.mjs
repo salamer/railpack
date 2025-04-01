@@ -17,7 +17,7 @@ export default defineConfig({
         github: "https://github.com/railwayapp/railpack",
       },
       editLink: {
-        baseUrl: "https://github.com/railwayapp/railpack/edit/main/docs/",
+        baseUrl: "https://github.com/salamer/railpack/edit/main/docs/",
       },
       favicon: "/favicon.svg?v=2",
       customCss: [

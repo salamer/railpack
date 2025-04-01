@@ -7,10 +7,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/railwayapp/railpack/core/generate"
-	"github.com/railwayapp/railpack/core/plan"
-	"github.com/railwayapp/railpack/core/providers/node"
-	"github.com/railwayapp/railpack/internal/utils"
+	"github.com/salamer/railpack/core/generate"
+	"github.com/salamer/railpack/core/plan"
+	"github.com/salamer/railpack/core/providers/node"
+	"github.com/salamer/railpack/internal/utils"
 )
 
 const (

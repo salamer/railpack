@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/railwayapp/railpack/buildkit"
-	"github.com/railwayapp/railpack/core"
-	"github.com/railwayapp/railpack/core/app"
-	"github.com/railwayapp/railpack/core/plan"
+	"github.com/salamer/railpack/buildkit"
+	"github.com/salamer/railpack/core"
+	"github.com/salamer/railpack/core/app"
+	"github.com/salamer/railpack/core/plan"
 	"github.com/urfave/cli/v3"
 )
 

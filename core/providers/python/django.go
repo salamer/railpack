@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/railwayapp/railpack/core/generate"
+	"github.com/salamer/railpack/core/generate"
 )
 
 func (p *PythonProvider) getDjangoAppName(ctx *generate.GenerateContext) string {

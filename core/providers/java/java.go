@@ -3,8 +3,8 @@ package java
 import (
 	"fmt"
 
-	"github.com/railwayapp/railpack/core/generate"
-	"github.com/railwayapp/railpack/core/plan"
+	"github.com/salamer/railpack/core/generate"
+	"github.com/salamer/railpack/core/plan"
 )
 
 type JavaProvider struct{}

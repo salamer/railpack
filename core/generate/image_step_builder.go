@@ -1,8 +1,8 @@
 package generate
 
 import (
-	"github.com/railwayapp/railpack/core/plan"
-	"github.com/railwayapp/railpack/core/resolver"
+	"github.com/salamer/railpack/core/plan"
+	"github.com/salamer/railpack/core/resolver"
 )
 
 type ImageStepBuilder struct {

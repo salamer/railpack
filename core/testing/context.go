@@ -3,10 +3,10 @@ package testing
 import (
 	"testing"
 
-	"github.com/railwayapp/railpack/core/app"
-	"github.com/railwayapp/railpack/core/config"
-	"github.com/railwayapp/railpack/core/generate"
-	"github.com/railwayapp/railpack/core/logger"
+	"github.com/salamer/railpack/core/app"
+	"github.com/salamer/railpack/core/config"
+	"github.com/salamer/railpack/core/generate"
+	"github.com/salamer/railpack/core/logger"
 )
 
 // CreateGenerateContext creates a new GenerateContext for testing purposes
